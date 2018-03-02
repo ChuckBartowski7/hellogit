@@ -1,9 +1,6 @@
-package NerdHerd.H;
+package NerdHerd.MavenWithLog4j;
 
-/**
- * Hello world!
- *
- */
+
 import org.apache.log4j.Logger;
 
 public class App {

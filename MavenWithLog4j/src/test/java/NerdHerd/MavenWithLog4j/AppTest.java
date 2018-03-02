@@ -1,4 +1,4 @@
-package NerdHerd.H;
+package NerdHerd.MavenWithLog4j;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

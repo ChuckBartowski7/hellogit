@@ -11,9 +11,9 @@ public class HelloWorld {
 	public static void main(String[] args) {
 	
 		
-		//log.warn("WARNING: " + "bla bla");
-		//log.error("ERROR: " + "bla bla");
-		//log.info("INFO: " + "bla bla");
+		log.warn("WARNING: " + "bla bla");
+		log.error("ERROR: " + "bla bla");
+		log.info("INFO: " + "bla bla");
 		
 	}
 }

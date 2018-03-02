@@ -1,10 +1,19 @@
 package prova;
 
 
-public class HelloWorld 
-{
-  public static void main(String[] args)
-  {
-    System.out.println("Hello Git");
-  }
+
+import org.apache.log4j.Logger;
+
+public class HelloWorld {
+	
+	final static Logger log = Logger.getLogger(HelloWorld.class);
+	
+	public static void main(String[] args) {
+	
+		
+		//log.warn("WARNING: " + "bla bla");
+		//log.error("ERROR: " + "bla bla");
+		//log.info("INFO: " + "bla bla");
+		
+	}
 }

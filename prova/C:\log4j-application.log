@@ -1,0 +1,7 @@
+2018-03-02 12:09:17 WARN  HelloWorld:14 - WARNING: bla bla
+2018-03-02 12:09:26 WARN  HelloWorld:14 - WARNING: bla bla
+2018-03-02 12:09:26 ERROR HelloWorld:15 - ERROR: bla bla
+2018-03-02 12:09:26 INFO  HelloWorld:16 - INFO: bla bla
+2018-03-02 12:30:18 WARN  HelloWorld:14 - WARNING: bla bla
+2018-03-02 12:30:18 ERROR HelloWorld:15 - ERROR: bla bla
+2018-03-02 12:30:18 INFO  HelloWorld:16 - INFO: bla bla
